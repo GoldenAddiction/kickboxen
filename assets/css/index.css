@@ -4,11 +4,11 @@ main{
 #welcome{
     width: 99vw;
     height: 100vh;
-    /*background: url("../../images/maxresdefault.jpg") no-repeat center black;*/
+    background: url("../../images/silhouette-photo-of-a-men-fighting-39582.jpg") no-repeat center black;
     background-size: cover;
 }
 #welcome div{
-    background: rgba(0,0,0,100);
+    background: rgba(0,0,0,0.78);
     height: 100%;
     display: flex;
     justify-content: center;
